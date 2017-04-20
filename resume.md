@@ -2,8 +2,8 @@
 
 - **刘松** / 男 / 1989
 - 本科 / 辽宁华商经济学院计算机系
-- 工作年限：*7 year*
-- 期望职位：*Sensor Software Engineer*
+- 工作年限：*8 years*
+- 期望职位：*Senior Software Engineer*
 - 期望薪资：*50W+ / year*，可面议
 - 期望城市：[北京](https://www.google.com/maps/place/Beijing)
 
@@ -22,31 +22,54 @@
 
 Meituan.com is a Chinese group buying website for locally found consumer products and retail services. The company is headquartered in Beijing and was founded in 2010 by Xing Wang. -- Wikipedia
 
-*(2015/05 ~ Now)* Team Leader / Sensor Software Engineer
+*(2015/05 ~ Now)* Team Leader / Senior Software Engineer
 
-1. 保障猫眼电影C端各业务方向的需求评审，排期，和开发工作的有序进行。
-2. 协调小组资源，合理安排需求估时，定期组织小组会议，注重团队成员成长。
+1. 负责团队的工程化解决方案建设，抽象框架、提炼组件、促进前端工程化发展
+2. 协调小组资源，合理安排需求估时，定期组织小组会议，注重团队成员成长
 3. 带领团队向前冲，创建分享渠道打造学习型团队结构
-4. 团队管理，人员招聘，简历筛选，面试候选人等工作
+4. 团队管理、人员招聘、简历筛选、面试候选人等工作
 
 *(2015/05 ~ Now)* FullStack Software Engineer
 
-1. 负责美团旗下电影频道项目前后端分离的架构选型、设计与实现
-2. 开发可被其他团队使用的功能，组件，模块，提高团队影响力，增强对公司内部服务的了解程度。
-3. 带领团队做原有项目的迁移工作，制定迁移计划，技术方案，项目排期，指导团队成员完成相关工作
-4. 提升个人软实力，提升团队管理能力，注重与其他团队成员分享，交流，提升个人总结能力。
+1. 保障猫眼电影前端组各业务方向的需求评审，排期，和开发工作的有序进行。
+2. 负责美团旗下电影频道项目前后端分离的架构选型、设计与实现
+3. 开发可被其他团队使用的功能，组件，模块，提高团队影响力，增强对公司内部服务的了解程度。
+4. 带领团队做原有项目的迁移工作，制定迁移计划，技术方案，项目排期，指导团队成员完成相关工作
+5. 提升个人软实力，提升团队管理能力，注重与其他团队成员分享，交流，提升个人总结能力。
+
+### 光合新知
+
+*(2014/07 ~ 2015/03)* FullStack Software Engineer
+
+1. 负责光合新知教师后台研发工作
+2. 研发洋葱数学数据可视化平台
+3. 负责团队的项目框架开发、组件抽象、促进前端工程化建设
+
+### 盈润天成科技有限公司
+
+*(2012/10 ~ 2014/06)* FullStack Software Engineer
+
+1. 负责上海市海关单证信息电子化系统的开发工作
+2. 负责企业人事管理系统开发工作
+3. 负责团队的工程化体系建设等相关工作
 
 ### 金山软件
 
 Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. Kingsoft researched and developed word processors and other office applications, such as its flagship product, Word Processing System 1.0, which launched in 1989. 
 
-*(2015/05 ~ Now)* Software Engineer
+*(2012/05 ~ 2012/08)* Software Engineer
 
 1. 主要负责 Kingsoft WPS 的插件开发 (COM组件) 工作
 2. 建设银行 DocView 系统搭建部署工作，实现在 Web 端显示 Office 文档
 3. 国家电网集团 Office 集成
 4. 使用 NTKO 组件实现 Web 端集成开发, 集成, 优化, 测试
 5. [Office Document Converter](http://officeconverter.codeplex.com) 是一个基于 Kingsoft WPS 的开源文档转换工具
+
+### 沈阳世纪腾讯科技有限公司
+
+*(2010/11 ~ 2012/04)* Software Engineer
+
+1. 政府办公OA信息化系统
 
 ---
 
@@ -56,6 +79,10 @@ Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. Kingso
 
 ### 开源项目
 
+- [node-escpos](https://github.com/song940/node-escpos) ESC/POS Printer driver for node ⛳️
+- [konke](https://github.com/song940/konke) 🔌 konke sdk for node.js 
+- [node-bluetooth](https://github.com/song940/node-bluetooth) Bluetooth serial port communication for Node.js
+- [node-yeelight](https://github.com/song940/node-yeelight) 💡 A Node.js lib for the yeelight smart bulb
 - [multiline.js](https://www.npmjs.com/package/multiline.js) Multiline strings in JavaScript
 - [wechat-lite](https://www.npmjs.com/package/wechat-lite) wechat js api
 - [express-favicon](https://www.npmjs.com/package/express-favicon) express favicon
