@@ -1,10 +1,10 @@
+﻿
 # 简历
 
 - **刘松** / 男 / 1989
-- 本科 / 辽宁华商经济学院计算机系
-- 工作年限：*8 years*
+- 本科 / 辽宁华商经济学院
+- 工作年限：*10+ years*
 - 期望职位：*Senior Software Engineer*
-- 期望薪资：*50W+ / year*，可面议
 - 期望城市：[北京](https://www.google.com/maps/place/Beijing)
 
 ---
@@ -18,34 +18,59 @@
 
 ## 工作经历
 
+### 蚂蚁集团 / 网商银行
+
+*(2019/03 ~ 2021/05)* 综合金融前端负责人 / 资深技术专家
+
+在蚂蚁主要负责网商银行各银行产品的业务对接、系统分析与架构，以及团队管理工作。
+
+网商银行和传统银行一样有存款、理财、贷款、票据等业务，但是相比与传统银行又有更高的要求，
+
+需要深刻理解金融行业运作模式，并将需求通过技术方式准确表达。
+
+同时由于产品众多，业务发展迅猛，如何提高技术效率也面临挑战。
+
+1. 负责综合金融各产品的前端研发工作，并通过技术手段解决复杂场景下的业务问题
+2. 沉淀银行产品通用能力，方便跨业务间快速复用，加速业务迭代
+3. 负责理财域产品余利宝的产品研发流程设计
+4. 负责网商有数产品需求设计、架构设计，以及产品营销方案的制定
+5. 团队管理、人员招聘、简历筛选、面试候选人等工作，年平均面试 200 人左右。
+
 ### 美团网
 
-Meituan.com is a Chinese group buying website for locally found consumer products and retail services. The company is headquartered in Beijing and was founded in 2010 by Xing Wang. -- Wikipedia
+Meituan.com is a Chinese group buying website for locally found consumer products and retail services. The company is headquartered in Beijing and was founded in 2010 by Xing Wang. 
 
-*(2015/05 ~ Now)* Team Leader / Senior Software Engineer
+在美团这四年间，主要有两个阶段，一个契机是正值美团电影在向猫眼电影转变，我以全栈架构工程师的优势参与了整个产品快速迭代的过程，对整个产品技术脉络比较了解。也有幸与产品共同成长，发挥了我的价值。
 
-1. 负责团队的工程化解决方案建设，抽象框架、提炼组件、促进前端工程化发展
-2. 协调小组资源，合理安排需求估时，定期组织小组会议，注重团队成员成长
-3. 带领团队向前冲，创建分享渠道打造学习型团队结构
-4. 团队管理、人员招聘、简历筛选、面试候选人等工作
+在几个关键难点上也贡献了我的方案，其中在电影数据方面猫眼电影行业一流，被竞争对手以 “低1元” 的方式压制，我在方案上实现了反竞争抓取，解决了问题并申请了专利，且该方案在业内被多次作为经典案例报道和学习。
 
-*(2015/05 ~ Now)* FullStack Software Engineer
+第二个阶段主要是在沉淀技术方案，将之前在业务中的经验抽象、复用，并将集团内的 Node.js 生态的很多空白做了补齐，使得我们可以在更多场景中落地，产生规模效应，提高整体生产率。
+
+*(2017/05 ~ 2019/03)* Team Leader / Senior Software Engineer
+
+1. 负责 Turbo 工程化解决方案建设，抽象框架、提炼组件、促进前端工程化发展
+2. 负责美团网 desktop/mobile 的架构升级重构工作，以适应未来变化的需求
+3. 协调团队资源合理安排人员梯队，同时注重团队成员成长，打造一只能啃硬骨头的团队
+4. 美团购物商场业务前端负责人，通过建设小程序管理平台解决批量生产发布的问题。
+
+*(2015/05 ~ 2017)* FullStack Software Engineer
 
 1. 保障猫眼电影前端组各业务方向的需求评审，排期，和开发工作的有序进行。
 2. 负责美团旗下电影频道项目前后端分离的架构选型、设计与实现
-3. 开发可被其他团队使用的功能，组件，模块，提高团队影响力，增强对公司内部服务的了解程度。
 4. 带领团队做原有项目的迁移工作，制定迁移计划，技术方案，项目排期，指导团队成员完成相关工作
-5. 提升个人软实力，提升团队管理能力，注重与其他团队成员分享，交流，提升个人总结能力。
+5. 在推动业务快速前进的同时，不断思考总结积累业务发展中的经验，完善团队的基础建设
 
-### 光合新知
+### 光合新知(北京)科技有限公司
 
 *(2014/07 ~ 2015/03)* FullStack Software Engineer
+
+K12 教育创业赛道，主要负责洋葱数学产品研发
 
 1. 负责光合新知教师后台研发工作
 2. 研发洋葱数学数据可视化平台
 3. 负责团队的项目框架开发、组件抽象、促进前端工程化建设
 
-### 盈润天成科技有限公司
+### 北京盈润天成科技有限公司
 
 *(2012/10 ~ 2014/06)* FullStack Software Engineer
 
@@ -53,7 +78,7 @@ Meituan.com is a Chinese group buying website for locally found consumer product
 2. 负责企业人事管理系统开发工作
 3. 负责团队的工程化体系建设等相关工作
 
-### 金山软件
+### 金山软件（北京）
 
 Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. Kingsoft researched and developed word processors and other office applications, such as its flagship product, Word Processing System 1.0, which launched in 1989. 
 
@@ -65,11 +90,19 @@ Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. Kingso
 4. 使用 NTKO 组件实现 Web 端集成开发, 集成, 优化, 测试
 5. [Office Document Converter](http://officeconverter.codeplex.com) 是一个基于 Kingsoft WPS 的开源文档转换工具
 
-### 沈阳世纪腾讯科技有限公司
+### 沈阳卓越科技有限公司
 
 *(2010/11 ~ 2012/04)* Software Engineer
 
-1. 政府办公OA信息化系统
+1. 卓越EF呼叫中心系统（实习）
+2. 沈阳市政府政务信息化系统
+3. 鞍山市肿瘤医院挂号 / 科室导诊系统
+
+---
+
+## 教育经历
+
+- *(2006/09 ~ 2010/09)* 辽宁华商经济学院 / 计算机系 / 本科
 
 ---
 
@@ -85,17 +118,16 @@ Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. Kingso
 - [node-yeelight](https://github.com/song940/node-yeelight) 💡 A Node.js lib for the yeelight smart bulb
 - [multiline.js](https://www.npmjs.com/package/multiline.js) Multiline strings in JavaScript
 - [wechat-lite](https://www.npmjs.com/package/wechat-lite) wechat js api
+- [xfind](https://github.com/song940/xfind) 🔍 Simple and fast glob alternative in Node.js, just ~65lines!
 - [express-favicon](https://www.npmjs.com/package/express-favicon) express favicon
 - [geoip-local](https://www.npmjs.com/package/geoip-local) geoip tools for nodejs .
-- [angry-ui](https://github.com/angry-js/angry-ui) Pretty UI for the web components
-- [api-server](https://github.com/lsongorg/api-server) api server for lsong.org
-- [ifconfig](https://github.com/lsongorg/ifconfig) A simple service for looking up your IP address.
-- [tinyurl](https://github.com/lsongorg/tinyurl) shorten that long URL into a tiny URL
+- [minidate](https://github.com/song940/minidate) 📅 Minimal Date Library for JavaScript and Node.js with no dependencies, just ~3kb!
 - [mongoose-paginate](https://github.com/song940/mongoose-paginate) Mongoose paginate.
-- [simsimi](https://github.com/song940/simsimi) simsimi for nodejs .
+- [simsimi](https://github.com/song940/simsimi) 🐥 Simsimi API in Node.js 🐔
 - [pinyin.js](https://github.com/song940/pinyin.js) convert Chinese to PinYin
-- [voyager](https://github.com/song940/voyager) data analysis engineering .
-- [angryjs](https://www.npmjs.com/package/angry) This is a funny project that born angry.
+- [ifconfig](https://github.com/song940/node-ntp) ⌛ simple network time protocol implementation for node.js
+- [dns2](https://github.com/song940/node-dns) 🌐 DNS Server and Client Implementation in Pure JavaScript.
+- [kelp projects](https://github.com/kelpjs) The next full-featured javascript frameworks.
 
 for more projects please visit [GitHub.com](https://github.com/song940) .
 
@@ -115,35 +147,30 @@ for more posts please visit: https://blog.lsong.org .
 
 - 编程语言：node.js/ruby/python/php/csharp/java/c/cpp
 - 前端框架：React.js/Vue/AngularJS/Backbone/EmberJS
-- 前端工具：Gulp/Webpack/PostCSS/LeSS/Jade/CoffeeScript
+- 前端工具：Webpack/Gulp/PostCSS/LeSS/Jade/CoffeeScript
 - 服务端框架：Koa/Express/Rails/Sinatra/Lavaral/ThinkPHP
 - 数据库相关：MongoDB/MySQL/SQLite/MS-SQLSERVER
-- 测试相关：TDD/BDD
-- 移动设备：Android
+- 移动设备：Android / React Native / Mini Program
 
 ---
 
 ## 兴趣爱好
 
 - 技术宅, Hacker
-- 89C51 系列单片机
-- [Arduino](http://arduino.cc)
-- [Raspberry Pi](http://raspberrypi.org)
-- [Cubietruck](http://cubieboard.org/tag/cubietruck)
-- [OpenWRT](https://openwrt.org)
+- [业余无线电](https://)
+- [硬件嵌入式开发](https://)
+- [RC 航模 / 无人机](https://)
 - 数字, 模拟电路
-
-*技术宅拯救世界*
 
 ## 致谢
 
 感谢您花时间查看我的简历 , 请通过下面的社交网络关注我:
 
-[Twitter](https://twitter.com/song940) & 
-[Facebook](https://facebook.com/song940) &
-[Google+](https://plus.google.com/u/0/+LiusongLsong) &
-[Weibo](http://weibo.com/song940) &
-[V2EX](https://v2ex.com/member/song940) &
+[Twitter](https://twitter.com/song940) / 
+[Facebook](https://facebook.com/song940) /
+[Instagram](https://instagram.com/liu.song940) /
+[Weibo](http://weibo.com/song940) /
+[V2EX](https://v2ex.com/member/song940) /
 [RubyChina](https://ruby-china.org/song940)
 
 期待能有机会和您共事。

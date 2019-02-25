@@ -3,6 +3,6 @@
     "marked": "^0.6.0"
   },
   "scripts": {
-    "build": "marked resume.md > part.html"
+    "build": "node build.js"
   }
 }
