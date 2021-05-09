@@ -18,16 +18,14 @@
 
 ## 工作经历
 
-### 蚂蚁集团 / 网商银行
+### 阿里巴巴 / 蚂蚁集团
 
 *(2019/03 ~ 2021/05)* 综合金融前端负责人 / 资深技术专家
 
 在蚂蚁主要负责网商银行各银行产品的业务对接、系统分析与架构，以及团队管理工作。
 
 网商银行和传统银行一样有存款、理财、贷款、票据等业务，但是相比与传统银行又有更高的要求，
-
 需要深刻理解金融行业运作模式，并将需求通过技术方式准确表达。
-
 同时由于产品众多，业务发展迅猛，如何提高技术效率也面临挑战。
 
 1. 负责综合金融各产品的前端研发工作，并通过技术手段解决复杂场景下的业务问题
@@ -44,21 +42,24 @@ Meituan.com is a Chinese group buying website for locally found consumer product
 
 在几个关键难点上也贡献了我的方案，其中在电影数据方面猫眼电影行业一流，被竞争对手以 “低1元” 的方式压制，我在方案上实现了反竞争抓取，解决了问题并申请了专利，且该方案在业内被多次作为经典案例报道和学习。
 
-第二个阶段主要是在沉淀技术方案，将之前在业务中的经验抽象、复用，并将集团内的 Node.js 生态的很多空白做了补齐，使得我们可以在更多场景中落地，产生规模效应，提高整体生产率。
+第二个阶段主要是在沉淀技术方案，将之前在业务中的经验抽象、复用，填补了集团内的 Node.js 生态的很多空白，使得我们可以在更多场景中落地，产生规模效应，提高整体生产率。
 
 *(2017/05 ~ 2019/03)* Team Leader / Senior Software Engineer
 
-1. 负责 Turbo 工程化解决方案建设，抽象框架、提炼组件、促进前端工程化发展
-2. 负责美团网 desktop/mobile 的架构升级重构工作，以适应未来变化的需求
-3. 协调团队资源合理安排人员梯队，同时注重团队成员成长，打造一只能啃硬骨头的团队
-4. 美团购物商场业务前端负责人，通过建设小程序管理平台解决批量生产发布的问题。
+1. 负责美团网 desktop/mobile 的架构升级重构工作，以适应未来变化的需求
+2. 美团购物商场业务前端负责人，通过建设小程序管理平台解决批量生产发布的问题
+3. 负责 Turbo 工程化解决方案建设，抽象框架、提炼组件、促进前端工程化发展
+4. 参与美团小程序 MMP/MMP in Flutter、小程序动态化的核心实现
+4. 协调团队资源合理安排人员梯队，同时注重团队成员成长，打造一只能啃硬骨头的团队
 
 *(2015/05 ~ 2017)* FullStack Software Engineer
 
-1. 保障猫眼电影前端组各业务方向的需求评审，排期，和开发工作的有序进行。
-2. 负责美团旗下电影频道项目前后端分离的架构选型、设计与实现
+1. 负责美团旗下电影频道项目前后端分离的架构选型、设计与实现
+2. 负责猫眼电影管理后台的管理和建设工作
+3. 猫眼电影影院管理系统前端负责人，参与了核心设计和架构工作
 4. 带领团队做原有项目的迁移工作，制定迁移计划，技术方案，项目排期，指导团队成员完成相关工作
-5. 在推动业务快速前进的同时，不断思考总结积累业务发展中的经验，完善团队的基础建设
+5. 保障猫眼电影前端组各业务方向的需求评审，排期，和开发工作的有序进行。
+6. 在推动业务快速前进的同时，不断思考总结积累业务发展中的经验，完善团队的基础建设
 
 ### 光合新知(北京)科技有限公司
 
@@ -80,7 +81,9 @@ K12 教育创业赛道，主要负责洋葱数学产品研发
 
 ### 金山软件（北京）
 
-Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. Kingsoft researched and developed word processors and other office applications, such as its flagship product, Word Processing System 1.0, which launched in 1989. 
+Kingsoft was founded in 1988 by the JinShan company located in Hong Kong. 
+Kingsoft researched and developed word processors and other office applications, 
+such as its flagship product, Word Processing System 1.0, which launched in 1989. 
 
 *(2012/05 ~ 2012/08)* Software Engineer
 
@@ -133,11 +136,13 @@ for more projects please visit [GitHub.com](https://github.com/song940) .
 
 ### 技术文章
 
-- [Big data and Nodejs](https://blog.lsong.org/2014/12/analysis-of-data-visualization-on-nodejs.html)
-- [Multiline strings in JavaScript](https://blog.lsong.org/2014/09/multiline-strings-in-javascript.html)
-- [How to set up your own Git server on Linux](https://blog.lsong.org/2014/01/how-to-set-up-your-own-git-server-on-linux.html)
-- [Install Ruby2.0 on Mac OS X without RVM](https://blog.lsong.org/2014/01/install-ruby-2-0-on-mac-os-x-without-rvm.html)
+- [Flash Chip of a Phicomm K2 Router With a Programmer](https://blog.lsong.org/2018/09/phicomm-k2-router-repair.html)
+- [Why Clubhouse is so Popular](https://blog.lsong.org/2021/02/clubhouse-app.html)
+- [You Should Use Right Side USB-C Port](https://blog.lsong.org/2020/12/you-should-use-right-side-usbc-port.html)
+- [Linux Low-level Input Event Reading](https://blog.lsong.org/2016/02/linux-low-level-input-event-reading.html)
 - [Setup OpenWRT on WR720N](https://blog.lsong.org/2014/01/setup-openwrt-on-wr720n.html)
+- [Install Ruby2.0 on Mac OS X without RVM](https://blog.lsong.org/2014/01/install-ruby-2-0-on-mac-os-x-without-rvm.html)
+- [How to set up your own Git server on Linux](https://blog.lsong.org/2014/01/how-to-set-up-your-own-git-server-on-linux.html)
 
 for more posts please visit: https://blog.lsong.org .
 

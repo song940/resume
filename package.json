@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "marked": "^0.6.0"
+    "marked": "*"
   },
   "scripts": {
     "build": "node build.js"
