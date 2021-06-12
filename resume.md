@@ -20,7 +20,7 @@
 
 资深技术专家，曾就职阿里巴巴、美团、金山软件等公司，软件行业10+年技术和管理经验，现就职于蚂蚁集团 任网商银行银行产品前端负责人角色。
 
-对浏览器技术、服务端架构、硬件嵌入式与物联网开发以及网络协议比较感兴趣。
+对[浏览器技术](https://github.com/song940?tab=repositories&q=web)、[服务端架构](https://github.com/song940?tab=repositories&q=server)、[硬件嵌入式](https://github.com/song940?tab=repositories&q=hardware)与[物联网开发](https://github.com/song940?tab=repositories&q=iot)以及[网络协议](https://github.com/song940?tab=repositories&q=networking)比较感兴趣。
 
 ---
 
@@ -54,8 +54,8 @@ Meituan.com is a Chinese group buying website for locally found consumer product
 
 *(2017/05 ~ 2019/03)* Team Leader / Senior Software Engineer
 
-1. 负责美团网 desktop/mobile 的架构升级重构工作，以适应未来变化的需求
-2. 美团购物商场业务前端负责人，通过建设小程序管理平台解决批量生产发布的问题
+1. 负责美团网 desktop/mobile 的架构升级重构工作，以适应未来变化的需求，通过引入 Server-side Render 静态化文档解决 SEO 索引问题，通过合理的缓存方案设计解决高并发下的响应问题。
+2. 美团购物商场业务前端负责人，通过深入了解微信小程序工作原理并建设小程序管理平台解决批量生产发布的问题
 3. 负责 Turbo 工程化解决方案建设，抽象框架、提炼组件、促进前端工程化发展
 4. 参与美团小程序 MMP/MMP in Flutter、小程序动态化的核心实现
 4. 协调团队资源合理安排人员梯队，同时注重团队成员成长，打造一只能啃硬骨头的团队
