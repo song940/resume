@@ -2,7 +2,6 @@
 # 简历
 
 - **刘松** / 男 / 1989
-- 本科 / 辽宁华商经济学院
 - 工作年限：*10+ years*
 - 期望职位：*Senior Software Engineer*
 - 期望城市：[北京](https://www.google.com/maps/place/Beijing)
